@@ -1,1 +1,2 @@
-# MNLiermans-Windows-Scripts
+# MNLiermans Windows Scripts
+Scripts for Windows which I'm releasing and will try to keep updated. Things that I haven't been able to find elsewhere. You will find tools, automations, and other things to make your life easier. I'm an IT biz owner and IT pro, I often create scripts to fix issues, make my life easier, make the lives of my customers easier, etc. You will find all of that and more, right there. 
